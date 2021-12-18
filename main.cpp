@@ -200,6 +200,7 @@ void UpdateData()
 
 void AddNewCostumer()
 {
+  system("clear");
   char tempName[255];
   int tempAge;
   char tempCauseOfDeath[1000];
